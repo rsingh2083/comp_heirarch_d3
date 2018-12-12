@@ -1,0 +1,25 @@
+{
+	"name":"TATA",
+		"children":[{
+			"name":"Tata Motors",
+				"children":[{
+					"name":"JLR",
+						"children":[{
+							"name":"Tata Chem",
+								"children":[{
+									"name":"Tata Power",
+										"children":[{
+											"name":"TCS","size":49}]
+											,"size": 520
+											}]
+										}]
+										
+									}],
+									
+            "name": "Tata Cars",
+				"children": [{
+					"name": "Nexon","size": 137}]
+					,"size":100
+                    }],"size":1000
+		}					
+				
